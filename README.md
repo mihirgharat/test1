@@ -1,1 +1,1 @@
-This is version 1.0
+This is readme of version 2.
